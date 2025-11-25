@@ -15,6 +15,7 @@ git clone https://github.com/yourusername/forgekit.git
 cd forgekit
 pip install -e .
 ```
+This installs forgekit in editable mode with development dependencies (pytest, black, mypy, etc.).
 
 ## Modules
 
